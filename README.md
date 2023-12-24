@@ -1,13 +1,13 @@
 # Prenda_Beatriz
+Olá Flor, 
 
-Olá flor, este ano a prenda será um pouco diferente, vais ter de resolver um pequeno desafio para conseguires ter acesso à tua prenda :D
-Estavas sempre a pedir para te ensinar a hackear e chegou o dia de aprenderes algumas coisas :D
-
-Pede aí ao teu mais que tudo para te dar acesso ao PC dele, depois tens de abrir o browser e começar a partir isso tudo :D
+Este ano a prenda vai ser um pouco diferente. Vais ter de superar um pequeno desafio para teres acesso ao teu presente. 😄 
+Estavas sempre a pedir que te ensinasse a hackear, e chegou o momento de aprenderes algumas coisas divertidas. 😄
+Pede ao teu mais-que-tudo para te dar acesso ao PC dele. Depois, abre o navegador e começa a explorar um pouco. 😄
 
 http://192.168.2.11/login.html
 
-Nada de desistir, Try Harder! 
+Não desistas facilmente, dá o teu melhor! Try Harder!
 
-Good Luck,
+Good luck,
 h0rcrux
